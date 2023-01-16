@@ -10,7 +10,7 @@ edition = "2021"
 
 [dependencies]
 lazy_static = "1.4.0"
-clap = { version = "4.0.26", features = ["derive"] }
+clap = { version = "4.1.1", features = ["derive"] }
 rusqlite = { version = "0.28.0", features = ["bundled", "chrono"] }
 simd-json = "0.7.0"
 wikidata = "0.3.0"
