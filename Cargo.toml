@@ -14,7 +14,7 @@ clap = { version = "4.0.26", features = ["derive"] }
 rusqlite = { version = "0.28.0", features = ["bundled", "chrono"] }
 simd-json = "0.7.0"
 wikidata = "0.3.0"
-chrono = "0.4.23"
+chrono = "0.4.24"
 humansize = "2.1.2"
 humantime = "2.1.0"
 
